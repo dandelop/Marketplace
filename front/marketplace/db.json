@@ -1,0 +1,70 @@
+{
+  "usuarios": [
+    {
+      "id": "",
+      "nombre": "pepe",
+      "password": "1357"
+    },
+    {
+      "id": "98fc",
+      "nombre": "prueba",
+      "password": "prueba"
+    },
+    {
+      "id": "4d8c",
+      "nombre": "preuba 2",
+      "password": "1234"
+    },
+    {
+      "id": "c58a",
+      "nombre": "pedro",
+      "password": "pedro"
+    },
+    {
+      "id": "2ea4",
+      "nombre": "rafa",
+      "password": "1234"
+    },
+    {
+      "id": "70a2",
+      "nombre": "danie",
+      "password": "1234"
+    },
+    {
+      "id": "fafe",
+      "nombre": "dani",
+      "password": "1234"
+    },
+    {
+      "id": "278d",
+      "nombre": "pablo",
+      "password": "1234"
+    }
+  ],
+  "articulos": [
+    {
+      "id": "a1",
+      "nombre": "articulo1",
+      "precio": "10",
+      "stock": "5"
+    },
+    {
+      "id": "a2",
+      "nombre": "articulo2",
+      "precio": "20",
+      "stock": "10"
+    },
+    {
+      "id": "a1",
+      "nombre": "articulo3",
+      "precio": "5",
+      "stock": "20"
+    },
+    {
+      "id": "2e3c",
+      "nombre": "manzana",
+      "precio": "1",
+      "stock": "5"
+    }
+  ]
+}
